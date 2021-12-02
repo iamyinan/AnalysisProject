@@ -8,3 +8,7 @@ Utilized techniques including but not limited to:
 - missing data handling
 - outlier detection
 - standardizing data
+
+When constructing linear model:
+- multivariate analysis and testing statistical assumptions
+- log transformation of responds variable
