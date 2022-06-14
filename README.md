@@ -4,12 +4,18 @@ Predict survival on the Titanic and get familiar with ML basics
 
 link: https://www.kaggle.com/competitions/titanic
 
+Key techniques:
+- handle missing values with skewed class distribution
+- one-hot encoding
+- Random forest
+- cross-validation
+
 ## House Prices - Advanced Regression Techniques
 House Prices - Advanced Regression Techniques Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
 link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
 
-Utilized techniques including but not limited to:
+Key techniques:
 - feature selection based on correlation
 - visualisation
 - missing data handling
