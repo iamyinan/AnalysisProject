@@ -37,3 +37,7 @@ link: https://www.kaggle.com/competitions/comp30027-2022
 Predict which Tweets are about real disasters and which ones are not
 
 link: https://www.kaggle.com/competitions/nlp-getting-started/overview
+
+
+## AB testing
+link: [https://www.kaggle.com/competitions/nlp-getting-started/overview](https://www.kaggle.com/code/kanberburak/ab-testing)
