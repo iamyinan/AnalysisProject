@@ -1,4 +1,5 @@
-# Kaggle machine learning challenge
+# Kaggle Projects
+
 ## Titanic - Machine Learning from Disaster
 Predict survival on the Titanic and get familiar with ML basics
 
