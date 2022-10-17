@@ -1,9 +1,9 @@
-# Kaggle Projects
+# Random Analysis Projects
 
-## Titanic - Machine Learning from Disaster
+## :blue_heart: Titanic - Machine Learning from Disaster
 Predict survival on the Titanic and get familiar with ML basics
 
-link: https://www.kaggle.com/competitions/titanic
+url: https://www.kaggle.com/competitions/titanic
 
 Key techniques:
 - handle missing values with skewed class distribution
@@ -11,10 +11,10 @@ Key techniques:
 - Random forest
 - cross-validation
 
-## House Prices - Advanced Regression Techniques
+## :blue_heart: House Prices - Advanced Regression Techniques
 House Prices - Advanced Regression Techniques Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
-link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
+url: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
 
 Key techniques:
 - feature selection based on correlation
@@ -27,18 +27,17 @@ When constructing linear model:
 - multivariate analysis and testing statistical assumptions
 - log transformation of responds variable
 
-
-## Tweet Sentiment Extraction
-Extract support phrases for sentiment labels
-
-link: https://www.kaggle.com/competitions/comp30027-2022
-
-
-## Natural Language Processing with Disaster Tweets
+## :blue_heart: Natural Language Processing with Disaster Tweets
 Predict which Tweets are about real disasters and which ones are not
 
-link: https://www.kaggle.com/competitions/nlp-getting-started/overview
+url: https://www.kaggle.com/competitions/nlp-getting-started/overview
 
 
-## AB testing
+## :blue_heart: AB testing
 link: [https://www.kaggle.com/competitions/nlp-getting-started/overview](https://www.kaggle.com/code/kanberburak/ab-testing)
+
+## :green_heart: Tweet Sentiment Extraction
+Extract support phrases for sentiment labels
+
+url: https://www.kaggle.com/competitions/comp30027-2022
+
